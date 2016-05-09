@@ -1,3 +1,6 @@
+__author__ = 'moefar'
+
+
 def is_divisible(x, y):
     """
     Check if x is divided by y
